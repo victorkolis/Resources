@@ -1,8 +1,5 @@
 # Hacking Resources
-CTF chall write-ups, files, scripts etc to go with my video walkthroughs **[HERE](https://www.youtube.com/@_CryptoCat)**
-
-A challenge that takes 10 hours to solve, takes 10 minutes to explain :)
-
+(from [Crypto-Cat](https://github.com/Crypto-Cat))
 # CTF
 **[CTFTime](https://ctftime.org)**<br>
 **[OverTheWire](https://overthewire.org/wargames)**<br>
